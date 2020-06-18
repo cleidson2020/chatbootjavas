@@ -13,6 +13,7 @@ alert("Plano Anual R$100");
 
 let planoAnual = window.prompt("Digite Seu Plano");
 
+
 if (planoAnual == planos ) {
 
     planoAnual == planos;
