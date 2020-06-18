@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Chat Bot Simples Desenvolvido 17/06(Aula Introdução ao JS)
 
 
@@ -34,5 +34,3 @@ else{
 
 }
 =======
-Chat Bot Simples Desenvolvido 17/06(Aula Introdução ao JS)
->>>>>>> 973c906fa6ad6200662c7d4ce85eb2f3a3643743
